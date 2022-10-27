@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas Kruger
+## 👋 Hi, I’m Nicolas Kruger
 - 👀 I’m interested in Web development and AI.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NODE, React, Python
 - 💞️ I’m looking to collaborate on Web pages and AI projects
